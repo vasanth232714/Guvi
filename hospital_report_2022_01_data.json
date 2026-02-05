@@ -1,0 +1,38 @@
+{
+  "report_period": "2022-01",
+  "generated_at": "2026-02-03T18:50:09.048966",
+  "summary": {
+    "total_admissions": 0,
+    "total_discharges": 0,
+    "emergency_admissions": 0,
+    "avg_los": null,
+    "total_revenue": null,
+    "avg_cost_per_patient": null,
+    "total_procedures": 0,
+    "readmissions": 0,
+    "readmission_rate": 0,
+    "emergency_percentage": 0
+  },
+  "bed_occupancy": {
+    "avg_occupancy": null,
+    "max_occupancy": null,
+    "min_occupancy": null,
+    "avg_icu_occupied": null,
+    "avg_general_occupied": null
+  },
+  "departments": [],
+  "revenue": {
+    "room_charges": null,
+    "procedure_charges": null,
+    "medicine_charges": null,
+    "lab_charges": null,
+    "other_charges": null,
+    "total_revenue": null,
+    "total_discount": null,
+    "insurance_coverage": null,
+    "total_collected": null,
+    "collection_rate": 0
+  },
+  "outcomes": [],
+  "top_doctors": []
+}
